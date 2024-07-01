@@ -1,5 +1,4 @@
 mongo:7.0.12
-apache/rocketmq:5.2.0
 redis:7.2.5-alpine
 xuchengen/rocketmq::5.1.3
 
