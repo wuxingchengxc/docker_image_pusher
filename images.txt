@@ -1,4 +1,4 @@
-eclipse/ubuntu_jdk8:qa
+frolvlad/alpine-java:jdk8-slim
 
 #支持指定架构
 --platform=linux/amd64 amd
