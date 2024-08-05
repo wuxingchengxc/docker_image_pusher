@@ -1,4 +1,4 @@
-frolvlad/alpine-java:jdk8-slim
+nginx:alpine-perl
 
 #支持指定架构
 --platform=linux/amd64 amd
