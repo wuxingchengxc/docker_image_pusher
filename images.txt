@@ -1,5 +1,4 @@
-drone/agent:linux-arm64
-drone/drone:2.24
+apacherocketmq/rocketmq-dashboard:1.0.0
 
 #支持指定架构
 --platform=linux/amd64 amd
